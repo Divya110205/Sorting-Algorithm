@@ -1,4 +1,5 @@
-# Selection sort and Insertion sort
+# EX 4: Selection sort and Insertion sort
+## Date: 19.09.23
 ## Aim:
 To write a program to perform selection sort and insertion sort using python programming.
 ## Equipment’s required:
